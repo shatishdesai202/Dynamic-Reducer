@@ -1,0 +1,22 @@
+{
+  "name": "redux-dynamic-reducers",
+  "description": "And end-to-end example of adding redux reducers after the initial store creation. Handy for code splitting or just convenience.",
+  "version": "0.0.119",
+  "dependencies": {
+    "prop-types": "15.6.0",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-redux": "5.0.6",
+    "react-router-dom": "4.2.2",
+    "redux": "3.7.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
